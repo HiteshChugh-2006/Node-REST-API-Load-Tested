@@ -2,6 +2,8 @@
 
 # 🔥 Node REST API — Load Tested
 
+[![Live Demo](https://img.shields.io/badge/Demo-Render-brightgreen.svg?style=flat-square&logo=render)](https://node-rest-api-load-tested.onrender.com)
+
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
